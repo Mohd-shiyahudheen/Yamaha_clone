@@ -1,0 +1,541 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Roboto', 'Verdana','Geneva', sans-serif;
+}
+.header{
+    width: 100%;
+    height: 100px;
+    float: left;
+}
+.img-1{
+    margin-left: 65px;
+    margin-top: 26px;
+    float: left;
+}
+.home{
+    margin-left: 600px;
+    margin-top: 20px;
+    float: left;
+
+}
+.news{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+
+}
+.site{
+    margin-left: 30px;
+    margin-top: 20px;
+    float: left;
+
+}
+.img-a{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 18px;
+    float: left;
+
+}
+.region{
+    margin-left: 5px;
+    margin-top: 20px;
+    float: left;
+}
+.img-b{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 20px;
+    float: left;
+}
+.gallery{
+    float: left;
+    margin-left: 262px;
+    font-size: 14px;
+    margin-top: 20px;
+}
+.stories{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.design{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.products{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+.about{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.investor{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.racing{
+    float: left;
+    font-size: 14px;
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.parant-div{
+    float: left;
+    width: 100%;
+    height: 60px;
+}
+.d1{
+    float: left;
+    width: 30px;
+    height: 8px;
+    background-color: rgb(125, 125, 125);
+    margin-left: 626px;
+    margin-top: 10px;
+}
+.d2{
+    float: left;
+    width: 30px;
+    height: 8px;
+    background-color: #7d7d7d;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.d3{
+    float: left;
+    width: 30px;
+    height: 8px;
+    background-color: #b406067d;
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.d4{
+    float: left;
+    width: 30px;
+    height: 8px;
+    background-color: #7d7d7d;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.div{
+    width: 100%;
+    height: 100px;
+}
+.yamaha{
+    width: 800px;
+    height: 56px;
+    background-color: transparent;
+    border-radius: 20px;
+    border: solid 3px #d40000;
+    margin-left: 318px;
+    margin-top: 45px;
+}
+.para-1{
+    color: #d40000;
+    margin-left: 80px;
+    margin-top: 17px;
+}
+.img-paranet-div{
+    width: 100%;
+    height: 400px;
+}
+.img-3{
+    float: left;
+    margin-left: 45px;
+
+}
+.img-4{
+    float: left;
+    margin-left: 20px;
+    
+}
+.img-5{
+    float: left;
+    margin-left: 20px;
+   
+}
+.img-6{
+    float: left;
+    margin-left: 20px;
+}
+.products-1{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+.about-2{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.investor-3 {
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.sustainability{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.explore{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.overview{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.massage{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.contri{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.img-paranet-div-1{
+    width: 100%;
+    height: 400px;
+}
+.img-7{
+    float: left;
+    margin-left: 45px;
+
+}
+.img-8{
+    float: left;
+    margin-left: 20px;
+    
+}
+.img-9{
+    float: left;
+    margin-left: 20px;
+   
+}
+.img-10{
+    float: left;
+    margin-left: 20px;
+}
+.newses{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+.gallary{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.story{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.techno{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.corporate{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.content{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.intro{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.committed{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+
+.img-paranet-div-2{
+    width: 100%;
+    height: 450px;
+}
+.img-11{
+    float: left;
+    margin-left: 45px;
+
+}
+.img-12{
+    float: left;
+    margin-left: 20px;
+    
+}
+.img-13{
+    float: left;
+    margin-left: 20px;
+} 
+.plaza{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 18px;
+}
+.race{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.globel{
+    float: left;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.exibition{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.latest{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.groupe{
+    margin-top: 60px;
+    margin-left: 20px;
+    font-size: smaller;
+}
+.wifi-parent-div{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.whats-news{
+    margin-left: 50px;
+}
+.img-wifi{
+    margin-left: 40px;
+    margin-top: 13px;
+}
+.vertical-line{
+    width: 70px;
+    height: 4px;
+    background-color: #0695d1;
+    transform: rotate(90deg);
+    margin-top: 35px;
+    margin-left: 10px;
+}
+.para-a1{
+    font-family: 'Roboto', 'Verdana','Geneva', sans-serif;
+    font-size: small;
+    margin-left: -22px;
+    line-height: 24px;
+}
+.wifi-parent-2{
+    width: 100%;
+    height: 100px;
+    display: flex;
+
+}
+.vertical-line-2{
+    width: 70px;
+    height: 4px;
+    background-color: #0695d1;
+    transform: rotate(90deg);
+    margin-left: 354px;
+    margin-top: 40px;
+}
+.para-a2{
+    font-family: 'Roboto', 'Verdana','Geneva', sans-serif;
+    font-size: small;
+    margin-left: -22px;
+    line-height: 24px;
+    margin-top: 5px;
+}
+.wifi-parent-3{
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+.vertical-line-3{
+    width: 70px;
+    height: 4px;
+    background-color: #0695d1;
+    transform: rotate(90deg);
+    margin-left: 354px;
+    margin-top: 40px;
+}
+.para-a3{
+    font-family: 'Roboto', 'Verdana','Geneva', sans-serif;
+    font-size: small;
+    margin-left: -22px;
+    line-height: 24px;
+    margin-top: 5px;
+}
+.wifi-parent-4{
+    width: 100%;
+    height: 90px;
+    display: flex;
+}
+.annoucment{
+    margin-left: 50px;
+    margin-top: 18px;
+}
+.vertical-line-4{
+    width: 70px;
+    height: 4px;
+    background-color: #0695d1;
+    transform: rotate(90deg);
+    margin-top: 40px;
+    margin-left: 77px;
+}
+
+.para-a4{
+    font-family: 'Roboto', 'Verdana','Geneva', sans-serif;
+    font-size: small;
+    margin-left: -22px;
+    line-height: 24px;
+    margin-top: 15px;
+}
+.more-read{
+    width: 100%;
+    height: 120px;
+}
+.read{
+    margin-left: 1062px;
+    font-size: small;
+}
+.home-parent{
+    width: 100%;
+    height: 50px;
+    background-color:rgb(204, 197, 197);
+}
+.home-1{
+    margin-left: 60px;
+    padding-top: 16px;
+}
+.fainal-div{
+    width: 100%;
+    height: 400px;
+    background-color: rgb(51, 48, 48);
+}
+.first-row{
+    display: flex;
+}
+.f1{
+    color: #fff;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.f2{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f3{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f4{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f5{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f6{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f7{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.f8{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.img-14{
+    margin-top: 84px;
+    margin-left: 570px;
+}
+.yamaha-corporation{
+    color: #fff;
+    margin-left: 580px;
+    margin-top: 10px;
+}
+.second-row{
+    display: flex;
+    margin-top: 30px;
+}
+.s1{
+    color: #fff;
+    margin-left: 270px;
+    margin-top: 50px;
+
+}
+.s2{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.s3{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.s4{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.s5{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+.last{
+    margin-left: 545px;
+    margin-top: 23px;
+    color: #fff;
+}
+
+
